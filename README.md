@@ -164,7 +164,4 @@ KPI & Analytical Calculations
 Interactive Dashboard Development
       ↓
 Geo-Analytical Election Insights
-      ↓
-Interactive Dashboard Development
-      ↓
-Geo-Analytical Election Insights
+      

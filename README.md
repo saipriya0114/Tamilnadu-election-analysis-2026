@@ -151,6 +151,8 @@ Interactive charts, maps, and comparative insights.
 ---
 
 # Project Architecture
+
+```text
 Election Data
       ↓
 Data Cleaning & Transformation
@@ -158,6 +160,10 @@ Data Cleaning & Transformation
 GeoJSON Constituency Mapping
       ↓
 KPI & Analytical Calculations
+      ↓
+Interactive Dashboard Development
+      ↓
+Geo-Analytical Election Insights
       ↓
 Interactive Dashboard Development
       ↓
